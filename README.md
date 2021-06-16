@@ -1,5 +1,5 @@
 # QuadTree_Python38
-- Who this is program for?
+- Who is this program for?
 
 This compares Linear search times with Quadtree search times. It is not meant for anything else other than small computation cost.
 
