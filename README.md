@@ -1,4 +1,4 @@
-# QuadTree_Python
+# QuadTreePython_FarFromBoston
 
 
 - To run the program
